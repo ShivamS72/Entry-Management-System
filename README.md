@@ -48,19 +48,26 @@ After executing the above command, the user is prompted with a window ,  where h
 Any invalidity needs to be ruled out, thus the following constraints need to be satisfied.
 ###  Constraints satisfied :
 - User cannot leave an empty field.
+
 ![Empty fields](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/empty.PNG)
 
-- If the user has already checked-in and has not checked out, he cannot check-in
+- If the user has already checked-in and has not checked out, he cannot check-in.
+
  ![Already Checked In](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedIn.PNG)
 - If the user has already checked out, he cannot check-out before another check-in.
+
 ![AlreadyCheckedOut](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedOut.PNG)
 - The Email-id of the host as well as the visitor should be valid.
+
 ![Invalid Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidEmail.PNG)
 - Host and visitor cannot have the same email-id.
+
 ![Same Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SameEmail.PNG)
 - The phone number of the host as well as the visitor should be valid.
+
 ![Invalid Phone](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidPhone.PNG)
 - Host and visitor cannot have the same phone number.
+
 ![Same Phone Number](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SamePhone.PNG)
 
 ### Usage :
