@@ -76,7 +76,9 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 ***Check In -*** After the user enters valid details and clicks on the '*Check In*' button, he will be prompted with a message of successful check-in. Then, an **Email** as well as an **SMS** will be sent to the host. Meanwhile,  all the entries will be updated in the database.
 
 ***Check Out -*** If the visitor wants to check-out, he needs to click on the  '*Go to Check Out*' button. Then a window will show up where-in he will be prompted to enter his email address. Invalid email address or an empty field will result in a popup message. After entering his email address, he needs to click on '*Check Out*' button. Then his check out time will be updated in the database.
-![Check Out Window]([https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckInWindow.PNG](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckOutWindow.PNG))
+
+   ![Check Out Window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckOutWindow.PNG)
+
 
 If another visitor wants to check-in, valid details should be filled in and the Check In button should be clicked upon. 
 
