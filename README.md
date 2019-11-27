@@ -86,30 +86,3 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 
 If another visitor wants to check-in, valid details should be filled in and the Check In button should be clicked upon. 
 
-## Database Design
-
-```
-entry
- |
- |--users
-      |--vName
-      |--vEmail
-      |--vPhone
-      |--hName
-      |--hEmail
-      |--hPhone
-      |--iTime
-      |--oTime
-      |--addr
-```
-The following variables denote the following :
-- vName - Visitor's name
-- vEmail - Visitor's email address
-- vPhone - Visitor's phone number
-- hName - Visitor's name
-- hEmail - Visitor's email address
-- hPhone - Visitor's phone number
-- iTime - Check-In time of the visitor
-- oTime - Check-Out time of the visitor
-- addr - Address of the building
-
