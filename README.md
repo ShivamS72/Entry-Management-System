@@ -57,10 +57,11 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 - The Email-id of the host as well as the visitor should be valid.
 ![Invalid Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidEmail.PNG)
 - Host and visitor cannot have the same email-id.
-- ![Same Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SameEmail.PNG)
-- The phone number of the host as well as the visitor should be valid. ![Invalid Phone](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidPhone.PNG)
+![Same Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SameEmail.PNG)
+- The phone number of the host as well as the visitor should be valid.
+![Invalid Phone](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidPhone.PNG)
 - Host and visitor cannot have the same phone number.
-![Same Phone Number]([https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckInWindow.PNG](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SamePhone.PNG))
+![Same Phone Number](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SamePhone.PNG)
 
 ### Usage :
 
