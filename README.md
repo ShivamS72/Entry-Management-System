@@ -45,7 +45,7 @@ python start.py
 ```
 After executing the above command, the user is prompted with a window ,  where he needs to fill the host as well as the visitor's details. 
 
-  ![Check In Window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckIn.PNG)
+  ![Check In Window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckInWindow.PNG)
 
 Any invalidity needs to be ruled out, thus the following constraints need to be satisfied.
 ###  Constraints satisfied :
