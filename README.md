@@ -44,7 +44,6 @@ To start the application, please run the following command from terminal:
 python start.py
 ```
 After executing the above command, the user is prompted with a window ,  where he needs to fill the host as well as the visitor's details. 
-![Check-in window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckInWindow.PNG)
 Any invalidity needs to be ruled out, thus the following constraints need to be satisfied.
 ###  Constraints satisfied :
 - User cannot leave an empty field.
