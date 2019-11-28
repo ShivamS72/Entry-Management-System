@@ -1,0 +1,5 @@
+MYSQL_ID = "root"
+MYSQL_PASSWORD = "root"
+USER_ID = "innovacerhelp@gmail.com"
+PASSWORD = "innovacer"
+AUTH_TOKEN = "LEtK4syxgzDRnTChfiVMe3wdcouAYWUFIBZGjOSaJ081m7pkrNzMDL8IibCcQY7hlfaJys5wPdUtO96n"
