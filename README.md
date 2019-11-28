@@ -116,6 +116,10 @@ entry
       |--iTime
       |--oTime
 ```
+In visitor, primary key is vEmail.
+In host, primary key is hEmail.
+In time, primary key is (vEmail,hEmail,iTime)
+
 The following variables denote the following :
 - vName - Visitor's name
 - vEmail - Visitor's email address
