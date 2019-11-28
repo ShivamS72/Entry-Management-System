@@ -98,7 +98,7 @@ On Check-Out, visitor will receive this email:
 ## Database Design
 
 ```
-entry
+entrym
  |
  |--visitor
       |--vName
