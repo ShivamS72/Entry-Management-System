@@ -95,3 +95,35 @@ On Check-Out, visitor will receive this email:
 
    ![EmailHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/EmailVisitor.PNG)
 
+
+## Database Design
+
+```
+entry
+ |
+ |--visitor
+      |--vName
+      |--vEmail
+      |--vPhone
+ |--host
+      |--hName
+      |--hEmail
+      |--hPhone
+      |--addr
+ |--time
+      |--vEmail
+      |--hEmail
+      |--iTime
+      |--oTime
+```
+The following variables denote the following :
+- vName - Visitor's name
+- vEmail - Visitor's email address
+- vPhone - Visitor's phone number
+- hName - Visitor's name
+- hEmail - Visitor's email address
+- hPhone - Visitor's phone number
+- iTime - Check-In time of the visitor
+- oTime - Check-Out time of the visitor
+- addr - Address of the building
+
