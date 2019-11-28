@@ -116,8 +116,8 @@ entry
       |--oTime
 ```
 The primary key of the tables are:
-- visitor - vEmail.
-- host - hEmail.
+- visitor - vEmail
+- host - hEmail
 - time - (vEmail,hEmail,iTime)
 
 The following variables denote the following :
