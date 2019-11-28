@@ -17,7 +17,6 @@ This software manages the visitors in and outside office.
 * [Python](https://www.python.org/about/) - Version 3.7
 * [Tkinter](https://docs.python.org/2/library/tkinter.html) - Standard Python interface to the Tk GUI toolkit
 * [MySQL](https://www.mysql.com/) - Relational database management system
-* [Twilio  ](https://www.twilio.com/)  - Cloud communications platform
 * [smtplib](https://docs.python.org/3/library/smtplib.html) - SMTP protocol client used to send email
 
 ## Installation 
