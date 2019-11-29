@@ -55,9 +55,7 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 - If the user has already checked-in and has not checked out, he cannot check-in.
 
      ![Already Checked In](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedIn.PNG)
-- If the user has already checked out, he cannot check-out before another check-in.
-     
-     ![AlreadyCheckedOut](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedOut.PNG)
+
 - The Email-id of the host as well as the visitor should be valid.
 
      ![Invalid Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidEmail.PNG)
@@ -71,14 +69,18 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
      
      ![Same Phone Number](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SamePhone.PNG)
 
+- If the user has already checked out, he cannot check-out before another check-in.
+     
+     ![AlreadyCheckedOut](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedOut.PNG)
+     
 ### Usage :
 
  
-***Check In -*** After the user enters valid details and clicks on the '*Check In*' button, he will be prompted with a message of successful check-in. Then, an **Email** as well as an **SMS** will be sent to the host. Meanwhile,  all the entries will be updated in the database.
+***Check In -*** After the user enters valid details and clicks on the '*Check In*' button, he will be prompted with a message of successful check-in. Then, an **Email** as well as an **SMS** will be sent to the host. Meanwhile,  all the entries will be updated in the database together with the current date and time as the Check-in time.
 
 ![Check In Window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckIn.PNG)
 
-***Check Out -*** If the visitor wants to check-out, he needs to click on the  '*Go to Check Out*' button. Then a window will show up where-in he will be prompted to enter his email address. Invalid email address or an empty field will result in a popup message. After entering his email address, he needs to click on '*Check Out*' button. Then his check out time will be updated in the database.
+***Check Out -*** If the visitor wants to check-out, he needs to click on the  '*Go to Check Out*' button. Then a window will show up where-in he will be prompted to enter his email address. Invalid email address or an empty field will result in a popup message. After entering his email address, he needs to click on '*Check Out*' button. If the check-out is valid, his check out time will be updated in the database and an email will be sent to him. 
 
    ![Check Out Window](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/CheckOut.PNG)
 
