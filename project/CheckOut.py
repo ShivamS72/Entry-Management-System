@@ -1,6 +1,4 @@
-# This module is used to perform utilities related to check-out
 
-# Import the necessary modules
 from Email import *
 from tkinter import messagebox
 from Database import *
