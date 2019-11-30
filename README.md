@@ -137,7 +137,7 @@ The following variables denote the following :
 Given below is a snapshot of the database:
 ![Database](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/database.PNG)
 
-Null value in oTime show that the user has not checked out yet.
+Null value in oTime shows that the user has not checked out yet.
 
 ## Author
 **Name:** Shivam Sharma
