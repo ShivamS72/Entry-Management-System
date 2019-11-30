@@ -6,9 +6,9 @@ Innovaccer SummerGeeks 2020 SDE-Intern Assignment.
 
 This software manages the visitors in and outside office.
   - Captures the name, email address, phone no of the visitor and the same information for the host on the front end.
-  - Once the user enters the information in the form, the backend stores all of the information with time stamp of the entry.
-  - An email and an SMS is sent the host informing him of the details of the visitor, when he checks-in
-  - An email is sent to the visitor when he checks-out sending him details of his visit
+  - Once the user enters the information in the form, the backend stores all of the information in the databse with the check-in time.
+  - An email and an SMS is sent to the host informing him of the details of the visitor, when he checks-in.
+  - An email is sent to the visitor when he checks-out sending him details of his visit.
   - Check-out time is stored into the database when the user checks-out
 
 
@@ -62,7 +62,7 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 - Host and visitor cannot have the same email-id.
 
      ![Same Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SameEmail.PNG)
-- The phone number of the host as well as the visitor should be valid. For this, phonenumbers package (which is a python port of Google's libphonenumber) was used.
+- The phone number of the host as well as the visitor should be valid. For this, **phonenumbers** package (which is a python port of Google's libphonenumber) was used.
 
      ![Invalid Phone](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidPhone.PNG)
 - Host and visitor cannot have the same phone number.
