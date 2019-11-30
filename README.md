@@ -134,3 +134,12 @@ The following variables denote the following :
 - oTime - Check-Out time of the visitor
 - addr - Address of the building
 
+Given below is a snapshot of the database:
+![Database](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/database.PNG)
+
+Null value in oTime show that the user has not checked out yet.
+
+## Author
+**Name:** Shivam Sharma
+**Email-ID:** 17ucs150@lnmiit.ac.in
+
