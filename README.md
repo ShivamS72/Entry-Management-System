@@ -56,13 +56,13 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 
      ![Already Checked In](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/AlreadyCheckedIn.PNG)
 
-- The Email-id of the host as well as the visitor should be valid.
+- The Email-id of the host as well as the visitor should be valid. There exists a python library **validate_email** which was used for this purpose.
 
      ![Invalid Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidEmail.PNG)
 - Host and visitor cannot have the same email-id.
 
      ![Same Email](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/SameEmail.PNG)
-- The phone number of the host as well as the visitor should be valid.
+- The phone number of the host as well as the visitor should be valid. For this, phonenumbers package (which is a python port of Google's libphonenumber) was used.
 
      ![Invalid Phone](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/InvalidPhone.PNG)
 - Host and visitor cannot have the same phone number.
