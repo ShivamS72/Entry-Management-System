@@ -91,7 +91,7 @@ If another visitor wants to check-in, valid details should be filled in and the 
 On Check-In, host will receive this email and SMS:
 
    ![EmailHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/EmailHost.PNG)
-   ![SMSHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/HostSMS.PNG)
+   ![SMSHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/HostSMS.png)
              
 On Check-Out, visitor will receive this email:
 
