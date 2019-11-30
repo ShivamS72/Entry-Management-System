@@ -9,9 +9,6 @@ from datetime import datetime
 from Config import MYSQL_ID, MYSQL_PASSWORD
 
 
-# MYSQL_ID = "root"
-# MYSQL_PASSWORD = "root"
-
 # This functions searches the user in the database and checks whether check-out is applicable or not
 def checkOut(vEmail):
     # Connect to the database jwt
