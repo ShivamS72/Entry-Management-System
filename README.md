@@ -88,13 +88,14 @@ Any invalidity needs to be ruled out, thus the following constraints need to be 
 If another visitor wants to check-in, valid details should be filled in and the Check In button should be clicked upon. 
 
 
-On Check-In, host will receive this email:
+On Check-In, host will receive this email and SMS:
 
    ![EmailHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/EmailHost.PNG)
+   ![SMSHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/HostSMS.PNG)
              
 On Check-Out, visitor will receive this email:
 
-   ![EmailHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/EmailVisitor.PNG)
+   ![EmailHost](https://github.com/ShivamS72/Entry-Management-System/blob/master/images/VisitorEmail.PNG)
 
 
 ## Database Design
