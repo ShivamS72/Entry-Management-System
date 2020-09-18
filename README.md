@@ -1,6 +1,6 @@
 #  Entry Management System
 
-This software manages the visitors in an office.
+Software for managing the visitors in an office.
 
 ## Description
 
