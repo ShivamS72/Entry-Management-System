@@ -1,6 +1,6 @@
 #  Entry Management System
 
-Innovaccer SummerGeeks 2020 SDE-Intern Assignment.
+This software manages the visitors in an office.
 
 ## Description
 
